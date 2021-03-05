@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="victor"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Darkziinh/bot4.0
-cd bot4.0
+git clone https://github.com/slash2018/botvictor5
+cd botvictor5
 bash install.sh
 sleep 2
 echo ""

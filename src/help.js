@@ -3,12 +3,14 @@ const //database
 ╔══✪〘 𝐈𝐍𝐅𝐎 〙✪══
 ║
 ╠➥ 𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡
-╠➥ *4.0*
-╠➥ 𝐃𝐎𝐍𝐎:  𝓥𝓘𝓒𝓣𝓞𝓡
-╠➥ *wa.me/+5522996215481*
-╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
+╠➥ *𝟰.𝟬*
+╠➥ 𝐃𝐎𝐍𝐎:   𝓥𝓘𝓒𝓣𝓞𝓡
+╠➥ 𝐁𝐀𝐒𝐄:   𝓓𝓐𝓡𝓚
+╠➥ 𝐀𝐏𝐏:    𝓒𝓐𝓤𝓢𝓢
+╠➥ *wa.me/+5511987529572*
+╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: *ON*
 ║
-╠══✪〘 NOVIDADES 〙✪══
+╠══✪〘 *𝐍𝐎𝐕𝐎𝐒* 〙✪══
 ║
 ║1 *${prefix}qrcode [premium]*
 ║2 *${prefix}chentai [premium]*
@@ -22,7 +24,7 @@ const //database
 ║9 *${prefix}spamcall*
 ║10 *${prefix}play (nome da msc)*
 ║
-╠══✪〘 MENU 〙✪══
+╠══✪〘 𝐌𝐄𝐍𝐔 〙✪══
 ║
 ║11 *${prefix}figu*
 ║12 *${prefix}toimg*
@@ -36,7 +38,7 @@ const //database
 ║20 *${prefix}wait [na legenda]*
 ║21 *${prefix}setprefix*
 ║
-╠══✪〘 OUTROS 〙✪══
+╠══✪〘 *𝐎𝐔𝐓𝐑𝐎𝐒* 〙✪══
 ║
 ║22 *${prefix}linkgp*
 ║23 *${prefix}simih [1/0]*
@@ -71,7 +73,7 @@ const //database
 ║52 *${prefix}marcar2*
 ║53 *${prefix}marcar3*
 ║
-╠══✪〘 IMAGENS 〙✪══
+╠══✪〘 *𝐈𝐌𝐀𝐆𝐄𝐍𝐒* 〙✪══
 ║
 ║54 *${prefix}loli* [off]
 ║55 *${prefix}loli1*
@@ -96,19 +98,19 @@ const //database
 ║74 *${prefix}nsfwloli1*
 ║75 *${prefix}reislin*
 ║
-╠══✪〘 INTELIGÊNCIA IA 〙✪══
+╠══✪〘 *𝗜𝗡𝗧𝗘𝗟𝗜𝗚𝗘𝗡𝗖𝗜𝗔 𝗜𝗔* 〙✪══
 ║
 ║76 *${prefix}simih 1 (para ativar)*
 ║77 *${prefix}simih 0 (para desativar)*
 ║ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 EM TESTE 〙✪══
+╠══✪〘 *𝐄𝐌 𝐏𝐑𝐎𝐃𝐔𝐂𝐀𝐎* 〙✪══
 ║
 ║78 *${prefix}*
 ║79 *${prefix}*
 ║80 *${prefix}*
 ║
-╠══✪〘 PREMIUM 〙✪══
+╠══✪〘 *𝐏𝐑𝐄𝐌𝐈𝐔𝐌* 〙✪══
 ║
 ║81 *${prefix}dado*
 ║82 *${prefix}cekvip*
@@ -125,7 +127,7 @@ const //database
 ║93 *${prefix}destrava*
 ║94 *${prefix}gpessoa*
 ║
-╠══✪〘 GRUPO 〙✪══
+╠══✪〘 𝐆𝐑𝐔𝐏𝐎 〙✪══
 ║
 ║95 *${prefix}banir*
 ║96 *${prefix}leveling [on/off]*
@@ -147,7 +149,7 @@ const //database
 ║112 *${prefix}setdesc*
 ║113 *${prefix}bug [sua mensagem]*
 ║
-╠══✪〘 ESPECIFICO DO BOT 〙✪══
+╠══✪〘 𝐄𝐒𝐏𝐄𝐂𝐈𝐅𝐈𝐂𝐎 𝐃𝐎 𝐁𝐎𝐓 〙✪══
 ║
 ║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
